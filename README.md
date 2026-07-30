@@ -56,7 +56,7 @@ Run:
 
 ---
 
-## Example
+## Example and Test
 
 Input
 
